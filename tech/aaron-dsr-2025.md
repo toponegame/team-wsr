@@ -1,22 +1,26 @@
-* 2025-05-16
-  * 本周任务
-    - 开发自动爬取任务，自动从etherscan 爬取数据，爬取完成度（10%）
-    - 自动从chainabuse 爬取数据，爬取完成度（10%）
-    - 调研KYT产品: 
-          - Chainalysis
-          - AMLBOT    0.3美元/每次
-          - slowmist   599美元-1799美元/每月
-          - quicknode    50美元/每月
-          - Elliptic
-          - Trustformer
-          - OKLink （已暂停使用）
-          - CipherTrace 根据定时的产品来收费
-          - etherscan 900美元/每月
-      - 清洗爬取的数据落入到数据库中
+# 2025-05-16 周报
 
-  * 下周计划
-    - 爬取etherscan、chainabuse 数据
-    - 调研剩余为回复的产品
-    - 整理清洗好的数据使用规则
-  
+## 本周任务
 
+- 开发自动爬取任务
+  - 自动从 etherscan 爬取数据
+    - 完成度：10%
+  - 自动从 chainabuse 爬取数据
+    - 完成度：10%
+- 调研 KYT 产品
+  - Chainalysis
+  - AMLBOT：$0.3/次
+  - Slowmist：$599-$1799/月
+  - Quicknode：$50/月
+  - Elliptic
+  - Trustformer
+  - OKLink（已暂停使用）
+  - CipherTrace：根据定制产品收费
+  - Etherscan：$900/月
+- 清洗爬取的数据并落入数据库
+
+## 下周计划
+
+- 继续爬取 etherscan、chainabuse 数据
+- 调研剩余未回复的产品
+- 整理、编写清洗后数据的使用规则
